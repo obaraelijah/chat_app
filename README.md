@@ -1,2 +1,2 @@
-install dependancies
-npm start
+## install dependancies
+## npm start
