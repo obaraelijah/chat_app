@@ -1,1 +1,2 @@
-
+install dependancies
+npm start
